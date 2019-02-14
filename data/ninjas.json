@@ -1,0 +1,29 @@
+[{
+    "name": "apple",
+    "type": "fruit",
+    "weight": 20,
+    "color": "Red",
+    "img": "content/images/img1.jpeg"
+},
+{
+    "name": "Jeep",
+    "type": "car",
+    "weight": 200,
+    "color": "green",
+    "img": "content/images/img2.jpg"
+},
+{
+    "name": "Iphone",
+    "type": "Mobile/smart phone",
+    "weight": 25,
+    "color": "gray",
+    "img": "content/images/img3.jpg"
+},
+{
+    "name": "Nokia",
+    "type": "Mobile",
+    "weight": 20,
+    "color": "orange",
+    "img": "content/images/img4.jpg"
+}
+]
